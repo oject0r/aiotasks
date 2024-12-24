@@ -25,7 +25,7 @@ Clone this repository and include the `aioqueues.py` file in your project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/oject0r/aioqueues.git
+git clone https://github.com/oject0r/aiotasks.git
 
 # Move aioqueues.py into your project folder
 ```
